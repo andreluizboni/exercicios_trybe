@@ -16,4 +16,15 @@ color:rgb(4, 36, 57);}
 }
 #sobre {
     font-size: small;
+    display: flex;
+}
+#points {
+    font-size: 18px;
+}
+.summary {
+    background-color: rgb(117, 108, 157);
+    color: rgb(224, 237, 197);
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
 }
