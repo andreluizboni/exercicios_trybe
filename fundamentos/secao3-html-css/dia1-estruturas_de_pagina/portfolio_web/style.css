@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(117, 108, 157);
+margin: 0;
+border: 20 px;
+padding-bottom:15px;
+color:rgb(4, 36, 57);}
+
+#nome {
+    font-family: fantasy;
+}
+.about {
+    font-family: monospace;
+}
+.city {
+    font-style: italic;
+}
+#sobre {
+    font-size: small;
+}
