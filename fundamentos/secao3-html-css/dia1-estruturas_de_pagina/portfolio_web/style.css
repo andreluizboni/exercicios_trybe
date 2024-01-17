@@ -1,0 +1,35 @@
+* {
+    background-color: rgb(117, 108, 157);
+margin: 0;
+border: 20 px;
+padding-bottom:15px;
+color:rgb(4, 36, 57);}
+#01 {
+    display: inline-block;
+}
+#nome {
+    font-family: fantasy;
+}
+.about {
+    font-family: monospace;
+}
+.city {
+    font-style: italic;
+}
+#sobre {
+    font-size: small;
+    display: flex;
+}
+#points {
+    font-size: 18px;
+}
+.link {
+    background-color: rgb(4, 36, 57);
+    color: rgb(224, 237, 197);
+    list-style: none;
+    text-decoration: none;
+}
+.footer {
+    background-color: rgb(4, 36, 57);
+    display: flex
+}
