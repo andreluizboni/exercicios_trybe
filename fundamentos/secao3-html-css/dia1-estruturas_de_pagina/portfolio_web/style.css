@@ -6,7 +6,6 @@ padding-bottom:15px;
 color:rgb(4, 36, 57);}
 #01 {
     display: inline-block;
-    
 }
 #nome {
     font-family: fantasy;
@@ -20,7 +19,6 @@ color:rgb(4, 36, 57);}
 #sobre {
     font-size: small;
     display: flex;
-    float: initial;
 }
 #points {
     font-size: 18px;
@@ -31,7 +29,7 @@ color:rgb(4, 36, 57);}
     list-style: none;
     text-decoration: none;
 }
-.summary {
+.footer {
     background-color: rgb(4, 36, 57);
-
+    display: flex
 }
